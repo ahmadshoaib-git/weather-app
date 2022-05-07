@@ -1,5 +1,6 @@
 {
   "name": "weather-app",
+  "author": "Ahmad Shoaib",
   "version": "0.1.0",
   "private": true,
   "scripts": {
